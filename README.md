@@ -13,4 +13,4 @@ it scarcely makes use of the 'Update' function. Functions are executed only when
 of running each frame, which massively improves performance on mobile and tablet devices. ScriptableObjects and modular code is utilized, which ensures non-programmers can create their own 
 characters, abilities, skills and afflictions based on existing code.
 
-Download Link ('<i>The Galactic Coliseum</i>' and other projects): https://divit-singh.itch.io/the-galactic-coliseum
+Download Link ('<i>The Galactic Coliseum</i>' and other projects): https://divit-singh.itch.io/
